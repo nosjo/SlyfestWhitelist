@@ -1,1 +1,1 @@
-{"Test":{"Type":"int","Value":1},"Test2":{"Type":"int","Value":10},"Number":{"Type":"int","Value":690},"Text":{"Type":"string","Value":"This is a text yes"}}
+{"AlertMessage":{"Type":"string","Value":""},"Test2":{"Type":"int","Value":10},"Number":{"Type":"int","Value":690},"Text":{"Type":"string","Value":"This is a text yes"}}
