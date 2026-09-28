@@ -1,1 +1,1 @@
-{"Test":1,"Test2":10,"Number":690,"Text":"This is a text yes"}
+{"Test":{"Type":"int","Value":1},"Test2":{"Type":"int","Value":10},"Number":{"Type":"int","Value":690},"Text":{"Type":"string","Value":"This is a text yes"}}
